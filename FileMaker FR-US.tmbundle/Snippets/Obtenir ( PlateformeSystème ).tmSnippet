@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( PlateformeSystème )</string>
+	<key>name</key>
+	<string>Obtenir ( PlateformeSystème )</string>
+	<key>tabTrigger</key>
+	<string>opsys</string>
+	<key>uuid</key>
+	<string>1E91FFAF-EE3B-43AC-9D74-095814805DFC</string>
+</dict>
+</plist>

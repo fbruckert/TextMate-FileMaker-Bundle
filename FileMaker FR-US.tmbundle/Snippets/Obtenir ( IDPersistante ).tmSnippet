@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( IDPersistante )</string>
+	<key>name</key>
+	<string>Obtenir ( IDPersistante )</string>
+	<key>tabTrigger</key>
+	<string>oid</string>
+	<key>uuid</key>
+	<string>3823C4B1-6972-49BE-8063-E8D1A63D6130</string>
+</dict>
+</plist>

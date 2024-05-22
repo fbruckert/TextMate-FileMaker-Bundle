@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Va (Versement; TauxInterêt; Périodes)</string>
+	<key>name</key>
+	<string>Va</string>
+	<key>tabTrigger</key>
+	<string>va</string>
+	<key>uuid</key>
+	<string>0E27F6F0-B6D5-4EE7-A009-7B7DFBAB42FD</string>
+</dict>
+</plist>

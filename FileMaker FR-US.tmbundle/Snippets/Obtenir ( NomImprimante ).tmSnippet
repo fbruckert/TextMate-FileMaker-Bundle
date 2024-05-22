@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( NomImprimante )</string>
+	<key>name</key>
+	<string>Obtenir ( NomImprimante )</string>
+	<key>tabTrigger</key>
+	<string>onimp</string>
+	<key>uuid</key>
+	<string>9D001164-BADE-4784-B765-D074270C5ADB</string>
+</dict>
+</plist>

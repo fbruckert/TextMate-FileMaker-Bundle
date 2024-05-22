@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ObtenirMiniature ( ${1:RubriqueSource}; ${2:AjusterLargeur}; ${3: AjusterHauteur} )</string>
+	<key>name</key>
+	<string>ObtenirMiniature</string>
+	<key>tabTrigger</key>
+	<string>om</string>
+	<key>uuid</key>
+	<string>13EF8D07-2991-4121-A612-C87084736A66</string>
+</dict>
+</plist>

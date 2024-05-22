@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ValeursEmplacement ( ${1:précision}; ${2:délai} )</string>
+	<key>name</key>
+	<string>ValeursEmplacement</string>
+	<key>tabTrigger</key>
+	<string>vemp</string>
+	<key>uuid</key>
+	<string>33286579-E75D-45BE-8473-D074894F141A</string>
+</dict>
+</plist>

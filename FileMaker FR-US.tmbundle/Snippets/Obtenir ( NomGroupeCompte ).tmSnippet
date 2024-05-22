@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( NomGroupeCompte )</string>
+	<key>name</key>
+	<string>Obtenir ( NomGroupeCompte )</string>
+	<key>tabTrigger</key>
+	<string>ongc</string>
+	<key>uuid</key>
+	<string>785255A1-25E1-45D9-A149-906A20538A5E</string>
+</dict>
+</plist>

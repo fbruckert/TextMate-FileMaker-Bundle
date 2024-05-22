@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>JSONDeleteElement (${1:json}; ${2:cléOulndexOuChemin} )$0</string>
+	<key>name</key>
+	<string>JSONDeleteElement</string>
+	<key>tabTrigger</key>
+	<string>jde</string>
+	<key>uuid</key>
+	<string>7FC2BB5E-7235-4399-A452-1894C702F57A</string>
+</dict>
+</plist>

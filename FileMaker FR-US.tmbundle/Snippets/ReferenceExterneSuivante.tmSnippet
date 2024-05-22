@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ReferenceExterneSuivante ( ${1:RubriqueSource}; ${2:Inférieur | Supérieur} )$0</string>
+	<key>name</key>
+	<string>ReferenceExterneSuivante</string>
+	<key>tabTrigger</key>
+	<string>res</string>
+	<key>uuid</key>
+	<string>3E34D9EE-7EE9-4BB0-80CF-6682AEDB432C</string>
+</dict>
+</plist>

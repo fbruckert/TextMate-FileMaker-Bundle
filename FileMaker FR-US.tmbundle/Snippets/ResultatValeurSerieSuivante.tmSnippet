@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ResultatValeurSerieSuivante ( ${1:Obtenir (NomFicjier )}; ${2:NomRubrique} )$0</string>
+	<key>name</key>
+	<string>ResultatValeurSerieSuivante</string>
+	<key>tabTrigger</key>
+	<string>rvss</string>
+	<key>uuid</key>
+	<string>EC0937F4-1AE4-4584-B0FA-B449FB1956CD</string>
+</dict>
+</plist>

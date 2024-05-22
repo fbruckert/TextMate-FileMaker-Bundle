@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( LargeurEcran )</string>
+	<key>name</key>
+	<string>Obtenir ( LargeurEcran )</string>
+	<key>tabTrigger</key>
+	<string>ole</string>
+	<key>uuid</key>
+	<string>D764BF44-B74B-4650-AF97-25520E2D5746</string>
+</dict>
+</plist>

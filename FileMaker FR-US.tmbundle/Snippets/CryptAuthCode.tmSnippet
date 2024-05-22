@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>CryptAuthCode ( ${1:donnée}; ${2:algorithme} ; ${3:clé} )$0</string>
+	<key>name</key>
+	<string>CryptAuthCode</string>
+	<key>tabTrigger</key>
+	<string>crya</string>
+	<key>uuid</key>
+	<string>FD902F75-1455-4E44-8BE2-0035D97EE0AC</string>
+</dict>
+</plist>

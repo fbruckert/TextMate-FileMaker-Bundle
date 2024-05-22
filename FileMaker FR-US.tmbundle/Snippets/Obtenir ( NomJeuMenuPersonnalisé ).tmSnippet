@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( NomJeuMenuPersonnalisé )</string>
+	<key>name</key>
+	<string>Obtenir ( NomJeuMenuPersonnalisé )</string>
+	<key>tabTrigger</key>
+	<string>onjmp</string>
+	<key>uuid</key>
+	<string>7D1107CB-7346-4617-8EF7-BA5E33926083</string>
+</dict>
+</plist>

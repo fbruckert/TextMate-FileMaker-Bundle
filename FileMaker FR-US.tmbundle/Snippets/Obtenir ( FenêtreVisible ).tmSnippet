@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( FenêtreVisible )</string>
+	<key>name</key>
+	<string>Obtenir ( FenêtreVisible )</string>
+	<key>tabTrigger</key>
+	<string>ofv</string>
+	<key>uuid</key>
+	<string>F00B981C-EF98-480E-8D83-117AE4F26334</string>
+</dict>
+</plist>

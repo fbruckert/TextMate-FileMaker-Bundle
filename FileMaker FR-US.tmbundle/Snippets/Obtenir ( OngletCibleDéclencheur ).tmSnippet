@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( OngletCibleDéclencheur )</string>
+	<key>name</key>
+	<string>Obtenir ( OngletCibleDéclencheur )</string>
+	<key>tabTrigger</key>
+	<string>oongcd</string>
+	<key>uuid</key>
+	<string>27337128-8418-4DEA-A354-FBFDC9C8B72C</string>
+</dict>
+</plist>

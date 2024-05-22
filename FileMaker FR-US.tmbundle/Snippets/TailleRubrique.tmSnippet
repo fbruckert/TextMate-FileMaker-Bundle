@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>TailleRubrique ( ${1:Obtenir (NomFichier)}; ${2:NomModèle}; ${3:NomRubriqueActive} )$0</string>
+	<key>name</key>
+	<string>TailleRubrique</string>
+	<key>tabTrigger</key>
+	<string>tailler</string>
+	<key>uuid</key>
+	<string>59C7444E-B364-4945-900F-DF8DE058F20F</string>
+</dict>
+</plist>

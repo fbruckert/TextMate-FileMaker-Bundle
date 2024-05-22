@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>GetSensor ( sensorName {; option1 ; option2 } )</string>
+	<key>name</key>
+	<string>GetSensor</string>
+	<key>tabTrigger</key>
+	<string>gs</string>
+	<key>uuid</key>
+	<string>56D52D0B-F21C-4B6C-A97B-3D9D69083182</string>
+</dict>
+</plist>

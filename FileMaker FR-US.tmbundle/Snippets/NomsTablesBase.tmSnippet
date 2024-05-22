@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>NomsTablesBase( NomFichier )</string>
+	<key>name</key>
+	<string>NomsTablesBase</string>
+	<key>tabTrigger</key>
+	<string>ntb</string>
+	<key>uuid</key>
+	<string>488BA7C5-A094-4A03-9B17-CC0B68337924</string>
+</dict>
+</plist>

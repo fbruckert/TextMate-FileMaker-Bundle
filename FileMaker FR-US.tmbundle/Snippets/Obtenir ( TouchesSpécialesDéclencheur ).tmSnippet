@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( TouchesSpécialesDéclencheur )</string>
+	<key>name</key>
+	<string>Obtenir ( TouchesSpécialesDéclencheur )</string>
+	<key>tabTrigger</key>
+	<string>otsd</string>
+	<key>uuid</key>
+	<string>04C373D0-48B9-43B8-9E3E-504EC2C52F3D</string>
+</dict>
+</plist>

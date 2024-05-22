@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( CheminFichierCache )</string>
+	<key>name</key>
+	<string>Obtenir ( CheminFichierCache )</string>
+	<key>tabTrigger</key>
+	<string>ocfc</string>
+	<key>uuid</key>
+	<string>741C439B-F7F8-494B-BF92-8B0D5129D98F</string>
+</dict>
+</plist>

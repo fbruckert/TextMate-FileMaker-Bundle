@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ObtenirAttributConteneur ( ${1:rubriqueSource}${2:; nomAttribut} )$0
+</string>
+	<key>name</key>
+	<string>ObtenirAttributConteneur</string>
+	<key>tabTrigger</key>
+	<string>oacont</string>
+	<key>uuid</key>
+	<string>E460B632-3943-4E2D-A864-6A8A69A591C8</string>
+</dict>
+</plist>

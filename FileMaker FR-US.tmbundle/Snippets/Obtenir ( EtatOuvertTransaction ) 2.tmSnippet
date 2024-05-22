@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( EtatOuvertTransaction )</string>
+	<key>name</key>
+	<string>Obtenir ( EtatOuvertTransaction )</string>
+	<key>tabTrigger</key>
+	<string>oeot</string>
+	<key>uuid</key>
+	<string>8537EEE6-A1E2-44A3-BC15-F9CE7749AD6A</string>
+</dict>
+</plist>

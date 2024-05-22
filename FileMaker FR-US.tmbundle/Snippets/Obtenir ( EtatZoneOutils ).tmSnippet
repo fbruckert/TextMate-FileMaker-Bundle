@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( EtatZoneOutils )</string>
+	<key>name</key>
+	<string>Obtenir ( EtatZoneOutils )</string>
+	<key>tabTrigger</key>
+	<string>oetatzo</string>
+	<key>uuid</key>
+	<string>3102AE2E-99A6-4045-8076-66E81FC970D6</string>
+</dict>
+</plist>

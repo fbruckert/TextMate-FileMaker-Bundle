@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ExecuterSQL ( ${1:RequêteSQL}; ${2:séparateurRubrique}; ${3: séparateurLigne}; ${4: arguments..} )</string>
+	<key>name</key>
+	<string>ExecuterSQL</string>
+	<key>tabTrigger</key>
+	<string>esql</string>
+	<key>uuid</key>
+	<string>B2D8104D-D4B3-4E2E-A8EF-DC5784C175A9</string>
+</dict>
+</plist>

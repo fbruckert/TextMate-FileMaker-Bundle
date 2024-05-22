@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( ProfondeurEcran )</string>
+	<key>name</key>
+	<string>Obtenir ( ProfondeurEcran )</string>
+	<key>tabTrigger</key>
+	<string>ope</string>
+	<key>uuid</key>
+	<string>11EFE360-BEF2-4BB1-A3C7-0C274AC2F36D</string>
+</dict>
+</plist>

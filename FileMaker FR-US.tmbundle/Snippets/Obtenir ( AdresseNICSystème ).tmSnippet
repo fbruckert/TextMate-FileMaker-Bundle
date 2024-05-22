@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( AdresseNICSystème )</string>
+	<key>name</key>
+	<string>Obtenir ( AdresseNICSystème )</string>
+	<key>tabTrigger</key>
+	<string>oanicsys</string>
+	<key>uuid</key>
+	<string>06BC6F21-0BAB-481D-B018-9AAE4016F89C</string>
+</dict>
+</plist>

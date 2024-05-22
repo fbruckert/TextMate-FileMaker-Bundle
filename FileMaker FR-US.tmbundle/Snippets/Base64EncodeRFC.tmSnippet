@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Base64EncodeRFC (${1:NuméroRFC donnée})$0</string>
+	<key>name</key>
+	<string>Base64EncodeRFC</string>
+	<key>tabTrigger</key>
+	<string>brfc</string>
+	<key>uuid</key>
+	<string>F59C4DE1-27CA-4ECE-92FC-B242EEDD766F</string>
+</dict>
+</plist>

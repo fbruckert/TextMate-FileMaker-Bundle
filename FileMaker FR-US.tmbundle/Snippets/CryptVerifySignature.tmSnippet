@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>CryptVerifySignature( ${1données ; ${2:algorithme} ; ${3:cléRSAPublique}; ${4:signature})$0</string>
+	<key>name</key>
+	<string>CryptVerifySignature</string>
+	<key>tabTrigger</key>
+	<string>cryvs</string>
+	<key>uuid</key>
+	<string>05F02778-9179-46CB-BD31-A259D8A36746</string>
+</dict>
+</plist>
