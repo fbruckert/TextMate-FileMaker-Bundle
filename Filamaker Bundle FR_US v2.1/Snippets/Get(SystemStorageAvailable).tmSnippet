@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Get(SystemStorageAvailable)</string>
+	<key>name</key>
+	<string>Get(SystemStorageAvailable)</string>
+	<key>tabTrigger</key>
+	<string>gssa</string>
+	<key>uuid</key>
+	<string>14B897D8-87D3-4B87-9F4F-AA13055E88FB</string>
+</dict>
+</plist>

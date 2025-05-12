@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Get(RevertTransactionOnErrorState)</string>
+	<key>name</key>
+	<string>Get(RevertTransactionOnErrorState)</string>
+	<key>tabTrigger</key>
+	<string>grtes</string>
+	<key>uuid</key>
+	<string>8413AAB6-C908-4759-9D5D-F73597B04001</string>
+</dict>
+</plist>
