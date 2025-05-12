@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>SupprimerPoliceTexte ( ${1:Texte}; ${2:"${3:Police}"}${4:; ${5:Latin | Grec | Cyrillique | EuropeCentrale | MajJIS | ChinoisTraditionnel | ChinoisSimplifié | OEM | Symbole | Autre}} )$0</string>
+	<key>name</key>
+	<string>SupprimerPoliceTexte</string>
+	<key>tabTrigger</key>
+	<string>suppol</string>
+	<key>uuid</key>
+	<string>E699EC64-F591-41A9-890C-192A4EDDC5B0</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>SemaineAnnee ( ${1:Date} )$0</string>
+	<key>name</key>
+	<string>SemaineAnnee</string>
+	<key>tabTrigger</key>
+	<string>sa</string>
+	<key>uuid</key>
+	<string>DAE8FC9A-0D2A-4A88-BAAD-D33446EA23B9</string>
+</dict>
+</plist>

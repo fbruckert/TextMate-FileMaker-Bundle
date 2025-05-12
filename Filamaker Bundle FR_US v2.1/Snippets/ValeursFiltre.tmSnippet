@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ValeursFiltre ( ${1:TexteAFiltrer}; ${2:ValeursFiltre} )$0</string>
+	<key>name</key>
+	<string>ValeursFiltre</string>
+	<key>tabTrigger</key>
+	<string>valfil</string>
+	<key>uuid</key>
+	<string>F01E90D0-D481-4E55-9869-78ADD50921D1</string>
+</dict>
+</plist>

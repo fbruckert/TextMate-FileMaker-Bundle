@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Substituer (
+	${1:texte};
+	[ ${2:ChaîneRecherchée} ; ${3:ChaîneRemplacée} ]
+)$0</string>
+	<key>name</key>
+	<string>Substituer</string>
+	<key>tabTrigger</key>
+	<string>sub</string>
+	<key>uuid</key>
+	<string>DFFDC874-11F8-4CAF-B85C-245742390C59</string>
+</dict>
+</plist>

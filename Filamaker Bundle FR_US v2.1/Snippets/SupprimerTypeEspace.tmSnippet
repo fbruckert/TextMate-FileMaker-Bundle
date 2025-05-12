@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>SupprimerTypeEspace ( ${1:Texte}; ${2:SuppressionEspace = Vrai | Faux}; ${3:SuppressionType = 0 | 1 | 2 | 3} )$0</string>
+	<key>name</key>
+	<string>SupprimerTypeEspace</string>
+	<key>tabTrigger</key>
+	<string>supte</string>
+	<key>uuid</key>
+	<string>ADB6BE30-08A8-4D4A-A304-839B7ADBFB93</string>
+</dict>
+</plist>
