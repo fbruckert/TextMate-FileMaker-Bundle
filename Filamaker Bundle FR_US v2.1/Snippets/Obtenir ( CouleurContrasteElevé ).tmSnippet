@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( CouleurContrasteElevé )</string>
+	<key>name</key>
+	<string>Obtenir ( CouleurContrasteElevé )</string>
+	<key>tabTrigger</key>
+	<string>occe</string>
+	<key>uuid</key>
+	<string>BDB760CE-761E-4C9F-B2E5-6752D1A1AFC3</string>
+</dict>
+</plist>

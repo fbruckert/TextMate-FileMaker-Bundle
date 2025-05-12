@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( EvénementsSurveillanceZone )</string>
+	<key>name</key>
+	<string>Obtenir ( EvénementsSurveillanceZone )</string>
+	<key>tabTrigger</key>
+	<string>oesz</string>
+	<key>uuid</key>
+	<string>499108C8-E77F-430E-96C5-0C058E860342</string>
+</dict>
+</plist>

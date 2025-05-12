@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir (ContenuRubriqueActive)</string>
+	<key>name</key>
+	<string>Obtenir ( ContenuRubriqueActive )</string>
+	<key>tabTrigger</key>
+	<string>ocontra</string>
+	<key>uuid</key>
+	<string>63AD2AC3-A9B1-47F7-AA31-0DF8489B3FE3</string>
+</dict>
+</plist>

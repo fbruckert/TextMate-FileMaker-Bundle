@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( DéclencherÉvénementExterne )</string>
+	<key>name</key>
+	<string>Obtenir ( DéclencherÉvénementExterne )</string>
+	<key>tabTrigger</key>
+	<string>odee</string>
+	<key>uuid</key>
+	<string>8A27F67E-68F3-4729-B05C-8512C5EE15B0</string>
+</dict>
+</plist>

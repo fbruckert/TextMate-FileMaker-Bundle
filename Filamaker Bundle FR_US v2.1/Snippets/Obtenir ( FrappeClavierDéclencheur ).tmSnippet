@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( FrappeClavierDéclencheur )</string>
+	<key>name</key>
+	<string>Obtenir ( FrappeClavierDéclencheur )</string>
+	<key>tabTrigger</key>
+	<string>ofcd</string>
+	<key>uuid</key>
+	<string>FD16C717-CF3F-4C84-98F8-EF96251EE8A9</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( EtatClavierTactile )</string>
+	<key>name</key>
+	<string>Obtenir ( EtatClavierTactile )</string>
+	<key>tabTrigger</key>
+	<string>oect</string>
+	<key>uuid</key>
+	<string>F74BCD39-C6C7-4DA1-B699-E5867EEB7E6F</string>
+</dict>
+</plist>

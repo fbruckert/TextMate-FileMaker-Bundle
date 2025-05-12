@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( EtatAnimationScript )</string>
+	<key>name</key>
+	<string>Obtenir ( EtatAnimationScript )</string>
+	<key>tabTrigger</key>
+	<string>oeas</string>
+	<key>uuid</key>
+	<string>A0496744-8426-440C-93FE-5D0BDF8B2482</string>
+</dict>
+</plist>

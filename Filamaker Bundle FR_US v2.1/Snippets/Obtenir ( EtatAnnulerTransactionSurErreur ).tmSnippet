@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( EtatAnnulerTransactionSurErreur )</string>
+	<key>name</key>
+	<string>Obtenir ( EtatAnnulerTransactionSurErreur )</string>
+	<key>tabTrigger</key>
+	<string>oeate</string>
+	<key>uuid</key>
+	<string>D2120E66-2182-4445-B639-C2DF72FA9F90</string>
+</dict>
+</plist>

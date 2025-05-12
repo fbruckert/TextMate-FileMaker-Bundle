@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( CheminFilemaker )</string>
+	<key>name</key>
+	<string>Obtenir ( CheminFilemaker )</string>
+	<key>tabTrigger</key>
+	<string>ochemfm</string>
+	<key>uuid</key>
+	<string>124C2E37-C78D-4040-B22E-DD5196AB4A35</string>
+</dict>
+</plist>

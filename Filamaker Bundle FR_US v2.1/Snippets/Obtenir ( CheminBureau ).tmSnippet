@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( CheminBureau )</string>
+	<key>name</key>
+	<string>Obtenir ( CheminBureau )</string>
+	<key>tabTrigger</key>
+	<string>ochemb</string>
+	<key>uuid</key>
+	<string>4D1A82D3-9B65-422C-897E-28A7920400BF</string>
+</dict>
+</plist>
