@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ObtenirHauteur ( RubriqueSource )
+</string>
+	<key>name</key>
+	<string>ObtenirHauteur</string>
+	<key>tabTrigger</key>
+	<string>oh</string>
+	<key>uuid</key>
+	<string>32CF6979-FBC6-42CA-A52D-6C728325DB69</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ObtenirAttributAVPlayer (  ${1:NomAttribut} )$0</string>
+	<key>name</key>
+	<string>ObtenirAttributAVPlayer</string>
+	<key>tabTrigger</key>
+	<string>oaavp</string>
+	<key>uuid</key>
+	<string>55F477C1-55D7-44F8-935C-334127B0864E</string>
+</dict>
+</plist>
