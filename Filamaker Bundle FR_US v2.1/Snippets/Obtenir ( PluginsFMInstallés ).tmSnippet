@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( PluginsFMInstallés )</string>
+	<key>name</key>
+	<string>Obtenir ( PluginsFMInstallés )</string>
+	<key>tabTrigger</key>
+	<string>oplug</string>
+	<key>uuid</key>
+	<string>296C772E-BC57-495B-AD37-C25F3B4AEDFE</string>
+</dict>
+</plist>

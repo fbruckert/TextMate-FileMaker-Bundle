@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Obtenir ( NomPrivilègesActuels )</string>
+	<key>name</key>
+	<string>Obtenir ( NomPrivilègesActuels )</string>
+	<key>tabTrigger</key>
+	<string>onpriva</string>
+	<key>uuid</key>
+	<string>DF366FDD-D72C-4E89-BC71-AAF5B326A57E</string>
+</dict>
+</plist>
