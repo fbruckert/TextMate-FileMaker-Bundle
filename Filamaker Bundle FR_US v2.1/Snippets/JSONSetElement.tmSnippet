@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>JSONSetElement ( "{}" ;
+[  "parameter1" ; "value1" ; JSONString ] ;
+[  "parameter2" ; "value2" ; JSONString ]
+)
+
+/*
+JSONString = String
+JS0NNumber = Number
+JSONObject = Object {}1
+JSONArray = Array
+JS0NBoolean = Boolean
+JSONNull = Null
+JSONRaw = To be determined by the JSON parser
+*/</string>
+	<key>name</key>
+	<string>JSONSetElement</string>
+	<key>tabTrigger</key>
+	<string>jse</string>
+	<key>uuid</key>
+	<string>47576BCF-ADB3-403C-904A-590D4D9B5639</string>
+</dict>
+</plist>

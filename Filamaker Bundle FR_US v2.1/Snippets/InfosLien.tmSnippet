@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>InfosLien ( ${1:NomFichier}; ${2:NomTable} )$0</string>
+	<key>name</key>
+	<string>InfosLien</string>
+	<key>tabTrigger</key>
+	<string>il</string>
+	<key>uuid</key>
+	<string>CD6BDEC8-680E-47F5-96EB-744A9C447BE3</string>
+</dict>
+</plist>
