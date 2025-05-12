@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ExecuterSQLe</string>
+	<key>name</key>
+	<string>ExecuterSQLe</string>
+	<key>tabTrigger</key>
+	<string>esqle</string>
+	<key>uuid</key>
+	<string>6EEF7F0A-D6F5-425F-8141-4494F4052129</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>DecoderBase64 ( ${1:texte}${2:; nomFichierAvecExtension} )$0
+</string>
+	<key>name</key>
+	<string>DecoderBase64</string>
+	<key>tabTrigger</key>
+	<string>decod64</string>
+	<key>uuid</key>
+	<string>4D8C0C0A-7544-41F0-9CC6-83AB580A1DFF</string>
+</dict>
+</plist>
